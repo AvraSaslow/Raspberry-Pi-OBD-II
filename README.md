@@ -1,12 +1,11 @@
 # <center> Raspberry Pi OBD-II
 
 <center> Team Name (Team #2): Code Hawks
-
+/newline
 <center> Team Members: Travis Cochran, Fallyn Logan, Avra Saslow, Brett Schneider, Andrew Weller, Will Walker
-
+/newline
 <center> Application Name: PocketOBD
-    
-
+/newline
 
 
 **Description:**
